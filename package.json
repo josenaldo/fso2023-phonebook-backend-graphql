@@ -1,0 +1,16 @@
+{
+    "name": "fso2023-phonebook-backend-graphql",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Josenaldo de Oliveira Matos Filho",
+    "license": "ISC",
+    "dependencies": {
+        "@apollo/server": "^4.7.3",
+        "graphql": "^16.6.0"
+    }
+}
