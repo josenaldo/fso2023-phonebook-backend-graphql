@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Arto Hellas",
+    "phone": "040-123543",
+    "street": "Tapiolankatu 5 A",
+    "city": "Espoo",
+    "id": "3d594650-3436-11e9-bc57-8b80ba54c431",
+    "nationality": "Finnish"
+  },
+  {
+    "name": "Matti Luukkainen",
+    "phone": "040-432342",
+    "street": "Malminkaari 10 A",
+    "city": "Helsinki",
+    "id": "3d599470-3436-11e9-bc57-8b80ba54c431",
+    "nationality": "Finnish"
+  },
+  {
+    "name": "Venla Ruuska",
+    "phone": "040-765432",
+    "street": "Nallemäentie 22 C",
+    "city": "Helsinki",
+    "id": "3d599471-3436-11e9-bc57-8b80ba54c431",
+    "nationality": "Finnish"
+  },
+  {
+    "name": "John Doe",
+    "phone": "+1-202-555-0171",
+    "street": "111 Broadway",
+    "city": "New York",
+    "id": "4d594650-3436-11e9-bc57-8b80ba54c431",
+    "nationality": "American"
+  },
+  {
+    "name": "Jane Smith",
+    "street": "222 Main St",
+    "city": "Los Angeles",
+    "id": "5d594650-3436-11e9-bc57-8b80ba54c431",
+    "nationality": "American"
+  },
+  {
+    "name": "Robert Johnson",
+    "phone": "+1-202-555-0154",
+    "street": "333 Elm St",
+    "city": "Chicago",
+    "id": "6d594650-3436-11e9-bc57-8b80ba54c431",
+    "nationality": "American"
+  },
+  {
+    "name": "Emily Davis",
+    "street": "444 Pine St",
+    "city": "Houston",
+    "id": "7d594650-3436-11e9-bc57-8b80ba54c431",
+    "nationality": "American"
+  },
+  {
+    "name": "Ana Silva",
+    "phone": "+55-21-98765-4321",
+    "street": "555 Rua A",
+    "city": "Rio de Janeiro",
+    "id": "8d594650-3436-11e9-bc57-8b80ba54c431",
+    "nationality": "Brazilian"
+  },
+  {
+    "name": "Carlos Santos",
+    "street": "666 Rua B",
+    "city": "São Paulo",
+    "id": "9d594650-3436-11e9-bc57-8b80ba54c431",
+    "nationality": "Brazilian"
+  },
+  {
+    "name": "Paula Oliveira",
+    "phone": "+55-71-87654-3210",
+    "street": "777 Rua C",
+    "city": "Salvador",
+    "id": "ad594650-3436-11e9-bc57-8b80ba54c431",
+    "nationality": "Brazilian"
+  },
+  {
+    "name": "Pedro Costa",
+    "street": "888 Rua D",
+    "city": "Brasília",
+    "id": "bd594650-3436-11e9-bc57-8b80ba54c431",
+    "nationality": "Brazilian"
+  },
+  {
+    "name": "Li Wei",
+    "phone": "+86-21-8765-4321",
+    "street": "999 Jiefang Road",
+    "city": "Shanghai",
+    "id": "cd594650-3436-11e9-bc57-8b80ba54c431",
+    "nationality": "Chinese"
+  },
+  {
+    "name": "Zhang Mei",
+    "street": "1000 Renmin Road",
+    "city": "Beijing",
+    "id": "dd594650-3436-11e9-bc57-8b80ba54c431",
+    "nationality": "Chinese"
+  },
+  {
+    "name": "Wang Feng",
+    "phone": "+86-20-7654-3210",
+    "street": "1100 Xinhua Road",
+    "city": "Guangzhou",
+    "id": "ed594650-3436-11e9-bc57-8b80ba54c431",
+    "nationality": "Chinese"
+  },
+  {
+    "name": "Liu Ying",
+    "street": "1200 Zhongshan Road",
+    "city": "Shenzhen",
+    "id": "fd594650-3436-11e9-bc57-8b80ba54c431",
+    "nationality": "Chinese"
+  },
+  {
+    "name": "Sibusiso Nkosi",
+    "phone": "+27-21-6543-2109",
+    "street": "1300 Long Street",
+    "city": "Cape Town",
+    "id": "1d594650-3437-11e9-bc57-8b80ba54c431",
+    "nationality": "South African"
+  },
+  {
+    "name": "Thandiwe Dlamini",
+    "street": "1400 Oxford Street",
+    "city": "Johannesburg",
+    "id": "2d594650-3437-11e9-bc57-8b80ba54c431",
+    "nationality": "South African"
+  },
+  {
+    "name": "Mandla Ndlovu",
+    "phone": "+27-31-5432-1098",
+    "street": "1500 Main Road",
+    "city": "Durban",
+    "id": "3d594650-3437-11e9-bc57-8b80ba54c431",
+    "nationality": "South African"
+  },
+  {
+    "name": "Nomusa Mkhize",
+    "street": "1600 Victoria Road",
+    "city": "Pretoria",
+    "id": "4d594650-3437-11e9-bc57-8b80ba54c431",
+    "nationality": "South African"
+  },
+  {
+    "name": "Emily Williams",
+    "phone": "+61-3-9876-5432",
+    "street": "1700 Collins Street",
+    "city": "Melbourne",
+    "id": "5d594650-3437-11e9-bc57-8b80ba54c431",
+    "nationality": "Australian"
+  }
+]
