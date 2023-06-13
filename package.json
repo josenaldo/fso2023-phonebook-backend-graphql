@@ -4,13 +4,19 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "start": "node index.js",
+        "start": "nodemon index.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "Josenaldo de Oliveira Matos Filho",
     "license": "ISC",
     "dependencies": {
         "@apollo/server": "^4.7.3",
-        "graphql": "^16.6.0"
+        "graphql": "^16.6.0",
+        "uuid": "^9.0.0"
+    },
+    "devDependencies": {
+        "eslint": "^8.42.0",
+        "eslint-config-prettier": "^8.8.0",
+        "nodemon": "^2.0.22"
     }
 }
